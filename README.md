@@ -1,7 +1,7 @@
   # Привет 👋 Я Иван Горбунов
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E63946&width=500&lines=Vibe+co
-  der+%F0%9F%A4%96;Делаю+AI-сайты+и+автоматизацию;Claude+Code+%2B+MCP+%2B+n8n" alt="Typing SVG" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E63946&width=500&lines=Vi
+  be+coder+%F0%9F%A4%96;AI+developer;Claude+Code+%2B+MCP+%2B+n8n)](https://git.io/typing-svg)
 
   Строю AI-инструменты для малого бизнеса с помощью Claude Code.
   Сайты с живыми ботами, автоматизация процессов, контент-системы.
@@ -26,7 +26,7 @@
 
   ---
 
-  [![Telegram](https://img.shields.io/badge/@ivangorbunov__pro-2CA5E0?style=flat&logo=telegram&logoColor=white)](https:/
-  /t.me/ivangorbunov_pro)&nbsp;&nbsp;
-  [![Site](https://img.shields.io/badge/автопилот24.рф-000000?style=flat&logo=safari&logoColor=white)](https://автопилот
-  24.рф)
+  [![Telegram](https://img.shields.io/badge/Telegram-ivangorbunov__pro-2CA5E0?style=flat&logo=telegram&logoColor=white)]
+  (https://t.me/ivangorbunov_pro)
+  [![Site](https://img.shields.io/badge/Site-autopilot24-black?style=flat&logo=safari&logoColor=white)](https://автопило
+  т24.рф)
